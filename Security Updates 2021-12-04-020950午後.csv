@@ -1,0 +1,2 @@
+リリース日,製品,プラットフォーム,影響,深刻度,Article,Article,Download,Download,Details,Details
+2021年11月9日,Visual Studio Code,,Elevation of Privilege,Important,Release Notes,https://code.visualstudio.com/updates/v1_62,Security Update,https://code.visualstudio.com/Download,CVE-2021-42322,https://msrc.microsoft.com//update-guide/vulnerability/CVE-2021-42322
